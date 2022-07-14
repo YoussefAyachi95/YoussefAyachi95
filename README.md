@@ -39,3 +39,5 @@ Will come...
 - Personal website: coming soon.
 - Twitter: coming soon.
 - Email: [![Email](https://img.shields.io/badge/youssef.ayachi@web.de-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youssef.ayachi@web.de)
+
+[![Youssefs's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefAyachi95)](https://github.com/YoussefAyachi95/github-readme-stats)
