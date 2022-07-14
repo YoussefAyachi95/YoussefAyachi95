@@ -42,5 +42,5 @@ Will come...
 
 ### Github Stats:
 
-[![Youssefs's GitHub stats](https://github-readme-stats.vercel.app/api??username=YoussefAyachi95)](https://github.com/YoussefAyachi95/github-readme-stats)
+![Youssef's github stats](https://github-readme-stats.vercel.app/api?username=YoussefAyachi95&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAyachi95)](https://github.com/YoussefAyachi95/github-readme-stats)
