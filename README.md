@@ -9,7 +9,7 @@ I love programming and working with different frameworks.
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently doing a Webdev bootcamp at DCI; 
-- 🤔 My interests are with iOS and macOS programming, AI in medical, Python etc..;
+- 🤔 Will edit soon
 - 💬 Ask me about anything, I am happy to help;
 
 ### Programming and markup languages:
