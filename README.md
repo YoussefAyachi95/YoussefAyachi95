@@ -8,8 +8,8 @@ I love programming and working with different frameworks.
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently doing a Webdev bootcamp at DCI; 
-- 🤔 Will edit soon
+- 👨🏽‍💻 I’m currently doing a Webdev bootcamp at [Digital Career Institute](https://digitalcareerinstitute.org/); 
+- 🌱 I’m currently learning **Javascript, React, MongoDB, Next.js, Tailwind CSS**
 - 💬 Ask me about anything, I am happy to help;
 
 #### <h3 align="left">Languages and Tools:</h3>
