@@ -2,7 +2,7 @@
 
 ## Hey 👋,
 
-Hi there, I'm **Youssef**, a **Front End Web Developer**.
+I'm **Youssef**, a **Front End Web Developer**.
 
 I love programming and working with different tools.
 
