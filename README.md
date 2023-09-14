@@ -6,11 +6,11 @@ I'm **Youssef**, a **Front End Web Developer**.
 
 I love programming and working with different tools.
 
-### Talking about Personal Stuff:
+### Some stuff about me:
 
-- 👨🏽‍💻 I’m currently doing a Full Stack Web Development bootcamp (Mern Stack) at [Digital Career Institute](https://digitalcareerinstitute.org/); 
-- 🌱 I’m currently learning **Next.JS, MongoDB, Node.JS and Redux**;
-- 💬 If you have questions ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m recently graduated from a 1 year intensive bootcamp as a Full Stack Web Developer (Mern Stack) at [Digital Career Institute](https://digitalcareerinstitute.org/); 
+- 🌱 I’m currently learning **Next.JS, Prisma, Astro and SQL**;
+- 💬 If you have questions regarding me ask about anything!;
 
 #### <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
