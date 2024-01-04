@@ -2,14 +2,14 @@
 
 ## Hey 👋,
 
-I'm **Youssef**, a **Front End Web Developer**.
+I'm **Youssef**, a **Frontend Web Developer**.
 
 I love programming and working with different tools.
 
 ### Some stuff about me:
 
-- 👨🏽‍💻 I’m recently graduated from a 1 year intensive bootcamp as a Full Stack Web Developer (Mern Stack) at [Digital Career Institute](https://digitalcareerinstitute.org/); 
-- 🌱 I’m currently learning **Next.JS, Prisma, Astro and SQL**;
+- 👨🏽‍💻 I’m recently graduated from a 1 year intensive bootcamp as a Fullstack Web Developer (Mern Stack) at [Digital Career Institute](https://digitalcareerinstitute.org/); 
+- 🌱 I’m currently learning **Next.JS, Astro, Prisma and PostgreSQL**;
 - 💬 If you have questions regarding me ask about anything!;
 
 #### <h3 align="left">Languages and Tools:</h3>
